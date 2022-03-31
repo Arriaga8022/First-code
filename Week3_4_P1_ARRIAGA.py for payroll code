@@ -1,0 +1,75 @@
+"Robert Arriaga
+ENDT200, D001 Winter22
+Sammy Abaza
+Week 3/4
+3/31/2022"
+
+Payroll
+Enter employee Name -> ADAM ADAM
+Enter hours worked -> 40
+Enter hourly rate  -> 10.00
+ADAM ADAM:  40 * 10 = 400
+Enter employee Name -> ADAM BART
+Enter hours worked -> 40
+Enter hourly rate  -> 10.00
+ADAM BART:  40 * 10 = 400
+Enter employee Name -> ADAM GLENN
+Enter hours worked -> 40
+Enter hourly rate  -> 12.00
+ADAM GLENN:  40 * 12 = 480
+Enter employee Name -> ADAM GOOD
+Enter hours worked -> 40
+Enter hourly rate  -> 12.00
+ADAM GOOD:  40 * 12 = 480
+Enter employee Name -> ADAM GREEN
+Enter hours worked -> 26
+Enter hourly rate  -> 12.50
+ADAM GREEN:  26 * 12.50 = 325
+Enter employee Name -> ADAM GREET
+Enter hours worked -> 38
+Enter hourly rate  -> 13.50
+ADAM GREET:  38 * 13.50 = 513
+Enter employee Name -> ADAM HARPER
+Enter hours worked -> 40
+Enter hourly rate  -> 14.00
+ADAM HARPER:  40 * 14.00 = 560
+Enter employee Name -> ADAM JAN
+Enter hours worked -> 40
+Enter hourly rate  -> 14.00
+ADAM JAN:  40 * 14.00 = 560
+Enter employee Name -> ADAM JOHN
+Enter hours worked -> 40
+Enter hourly rate  -> 14.00
+ADAM JOHN:  40 * 14.00 = 560
+Enter employee Name -> ADAM JONES
+Enter hours worked -> 39
+Enter hourly rate  -> 15.00
+ADAM JONES:  39 * 15.00 = 585
+Enter employee Name -> ADAM PRATT
+Enter hours worked -> 39
+Enter hourly rate  -> 16.00
+ADAM PRATT:  39 * 16.00 = 624
+Enter employee Name -> ADAM TERRUSO
+Enter hours worked -> 38
+Enter hourly rate  -> 16.00
+ADAM TERRUSO:  38 * 16.00 = 608
+Enter employee Name -> ADAM TERRY
+Enter hours worked -> 40
+Enter hourly rate  -> 17.00
+ADAM TERRY:  40 * 17.00 = 680
+Enter employee Name -> ADAM TIME
+Enter hours worked -> 40
+Enter hourly rate  -> 18.00
+ADAM TIME:  40 * 18.00 = 720
+Enter employee Name -> ADAM TUBE
+Enter hours worked -> 40
+Enter hourly rate  -> 18.00
+ADAM TUBE:  40 * 18.00 = 720
+Enter employee Name -> ADAM YANG
+Enter hours worked -> 40
+Enter hourly rate  -> 20.00
+ADAM YANG:  40 * 20.00 = 800
+Enter employee Name -> ADAM YOUNG
+Enter hours worked -> 40
+Enter hourly rate  -> 20.00
+ADAM YOUNG:  40 * 20.00 = 800
